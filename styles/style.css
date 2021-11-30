@@ -4,7 +4,7 @@ body{
     margin-right: 15%;
     margin-top:0;
     margin-bottom: 0;
-    background-color: rgb(228, 203, 157);
+    background-color: wheat;
 }
 
 .top_container{
@@ -22,10 +22,29 @@ body{
     margin-bottom: 0;
     margin-top: 0;
     text-align: left;
-    font-size: 10ch;
+    font-size: 8ch;
 }
 #cicero_head_text{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+.middle_container{
+    background-color: rgb(70, 70, 62);
+    padding: 5%;
+    padding-bottom: 25%;
+}
+
+#left_content_middle, #right_content_middle{
+    display: inline-block;
+    width: 35%;
+}
+
+#left_content_middle{
+    
+}
+
+#right_content_middle{
+    
 }

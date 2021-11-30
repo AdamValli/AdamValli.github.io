@@ -1,0 +1,27 @@
+
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top:0;
+    margin-bottom: 0;
+}
+
+.top_container{
+    background-color: black;
+    padding: 5%;
+    padding-bottom: 15%;
+    color: white;
+}
+
+#cicero_head{
+    display: block;
+    margin: auto;
+}
+
+#title{
+    margin: auto;
+}
+#cicero_head_text{
+    margin-left: auto;
+    margin-right: auto;
+}

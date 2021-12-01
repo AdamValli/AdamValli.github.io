@@ -34,6 +34,7 @@ body{
     position: relative;
     background-color: rgb(70, 70, 62);
     padding-bottom: 50%;
+    text-align: justify;
 }
 
 #left_middle, #right_middle{

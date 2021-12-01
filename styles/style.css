@@ -5,12 +5,12 @@ body{
     margin-top:0;
     margin-bottom: 0;
     background-color: wheat;
+    color: rgba(245, 245, 245, 0.815);
 }
 
 .top_container{
-    background-color: black;
+    background-color: rgb(31, 30, 30);
     padding: 5%;
-    color: white;
 }
 
 #cicero_head{
@@ -31,20 +31,42 @@ body{
 }
 
 .middle_container{
+    position: relative;
     background-color: rgb(70, 70, 62);
-    padding: 5%;
-    padding-bottom: 25%;
+    padding-bottom: 50%;
 }
 
-#left_content_middle, #right_content_middle{
+#left_middle, #right_middle{
+    position: absolute;
     display: inline-block;
     width: 35%;
 }
 
-#left_content_middle{
-
+#left_middle{
+    background-color: rgb(31, 30, 30);
+    height: 100%;
+    width: 50%;
+    left:0%;
+    
 }
 
-#right_content_middle{
-    
+#right_middle{
+    background-color: rgb(31, 30, 30);
+    height: 100%;
+    width: 50%;
+    right:0%;
+}
+
+#left_middle p{
+    margin: 5% 5% auto 5%;
+}
+#left_middle h2{
+    margin: 5% 5% 5% 5%;
+}
+
+#right_middle p{
+    margin: 5% 5% auto 5%;
+}
+#right_middle h2{
+    margin: 5% 5% 5% 5%;
 }

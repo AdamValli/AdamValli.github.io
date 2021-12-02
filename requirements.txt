@@ -11,3 +11,6 @@ undecided
 > add "blank-lines" as middle container text. See google fonts.
 > create class=center and create universal style to center elements.
     > create class=align, align containers
+
+# To Learn
+> How a child element aligns in a parent box.

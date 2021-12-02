@@ -8,4 +8,4 @@ colorhunt.co
 undecided
 
 # TODO
-> add blank-lines as middle container text. See google fonts.
+> add "blank-lines" as middle container text. See google fonts.

@@ -33,6 +33,10 @@ body{
     position: relative;
     padding-bottom: 50%;
     text-align: justify;
+    font-family: "Roboto slab", "sans-serif";
+}
+.middle_container p{
+    line-height: 2;
 }
 
 #left_middle, #right_middle{
@@ -70,22 +74,35 @@ body{
 
 .bottom_container{
     position: relative;
-    background-color:lightgray;
-    padding: 2% 5% 5% 5%;
+    padding: 2% 5% 8% 5%;
+    font-family: "Roboto slab", "sans-serif";
 }
 
 #footer_watermark{
-    margin-top: 100px;
+    font-size: 0.75em;
     left: 43.5%;
-    bottom: 20%;
+    bottom: 15%;
     position: absolute;
 }
 
 .footer_links li{
     position: absolute;
     display: inline;
-
+    font-size: 1.25em;
 }
+
+a:link, a:visited{
+    background-color: rgb(31, 30, 30);
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+a:active, a:hover{
+    color: wheat;
+}
+
+
 
 #github-portfolio{
     top: 30%;

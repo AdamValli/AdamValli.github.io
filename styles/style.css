@@ -1,10 +1,6 @@
 
 body{
-    /* margin-left: 15%;
-    margin-right: 15%; */
     margin: 0;
-    /* margin-top:0;
-    margin-bottom: 0; */
     background-color: wheat;
     color: rgba(245, 245, 245, 0.815);
 }
@@ -73,17 +69,33 @@ body{
 }
 
 .bottom_container{
+    position: relative;
+    background-color:lightgray;
     padding: 5%;
 }
 
 #footer_watermark{
-    text-align: center;
+    left: 46.5%;
+    bottom: 20%;
+    position: absolute;
+    
 }
 
 .footer_links li{
+    position: absolute;
     display: inline;
+
 }
+
 #github-portfolio{
-    left: auto;
-    right: auto;
+    top: 30%;
+    left: 68%;
+}
+#goodreads{
+    top: 30%;
+    left: 48%;
+}
+#youtube{
+    top: 30%;
+    left: 28%;
 }

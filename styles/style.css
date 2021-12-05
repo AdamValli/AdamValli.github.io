@@ -71,14 +71,14 @@ body{
 .bottom_container{
     position: relative;
     background-color:lightgray;
-    padding: 5%;
+    padding: 2% 5% 5% 5%;
 }
 
 #footer_watermark{
-    left: 46.5%;
+    margin-top: 100px;
+    left: 43.5%;
     bottom: 20%;
     position: absolute;
-    
 }
 
 .footer_links li{

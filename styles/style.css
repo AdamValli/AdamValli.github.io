@@ -29,6 +29,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    font-style: italic;
 }
 
 .middle_container{
@@ -75,6 +76,7 @@ body{
 }
 
 #rage-img, #brutal-img{
+    clear: both;
     width: 500px;
     height: 340px;
     margin: 5% 200px auto 200px;

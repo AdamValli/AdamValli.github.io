@@ -3,7 +3,7 @@
 **/
 body{
     margin: 0;
-    background-color: wheat;
+    background-color: rgb(31, 30, 30);
     color: rgba(245, 245, 245, 0.815);
 }
 .top_container, .middle_container, .bottom_container{
@@ -75,6 +75,7 @@ body{
 }
 
 .bottom_container{
+    margin-top: 50px;
     position: relative;
     padding: 2% 5% 8% 5%;
     font-family: "Roboto Slab", "sans-serif";

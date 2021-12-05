@@ -79,3 +79,11 @@ body{
 #footer_watermark{
     text-align: center;
 }
+
+.footer_links li{
+    display: inline;
+}
+#github-portfolio{
+    left: auto;
+    right: auto;
+}

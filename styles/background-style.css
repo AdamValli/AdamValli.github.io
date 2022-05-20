@@ -1,0 +1,78 @@
+/** Version 2.0, now with Grid! 
+    Sat 21st May 2022
+**/
+body{
+    margin: 0;
+    background-color: rgb(31, 30, 30);
+    color: rgba(245, 245, 245, 0.815);
+}
+.top_container, .middle_container, .bottom_container{
+    background-color: rgb(31, 30, 30);
+}
+
+
+#cicero_head{
+    display: block;
+    margin: auto;
+}
+
+#title{
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: left;
+    font-size: 8ch;
+}
+.image_text{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-style: italic;
+}
+
+.middle_container{
+    text-align: justify;
+    font-family: "Roboto Slab", "sans-serif";
+}
+.middle_container p{
+    line-height: 2;
+}
+
+
+
+
+
+#rage-img, #brutal-img{
+    clear: both;
+    width: 500px;
+    height: 340px;
+    margin: 5% 200px auto 200px;
+}
+
+.bottom_container{
+    padding: 2% 5% 8% 5%;
+    font-family: "Roboto Slab", "sans-serif";
+}
+
+#footer_watermark{
+    font-size: 0.75em;
+}
+
+.footer_links li{
+    display: inline;
+    font-size: 1.25em;
+    border-color: white;
+    border-width: 5px;
+}
+
+a:link, a:visited{
+    background-color: rgb(31, 30, 30);
+    color: rgba(245, 245, 245, 0.815);
+    text-decoration: none;
+    padding: 5px;
+}
+
+a:active, a:hover{
+    color: wheat;
+}
+

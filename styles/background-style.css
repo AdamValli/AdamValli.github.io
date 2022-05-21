@@ -9,15 +9,16 @@ body{
 .top_container, .middle_container, .bottom_container{
     background-color: rgb(31, 30, 30);
     padding: 5%;
+    margin: 0;
 }
 
 
-#cicero_head{
+.cicero_head{
     display: block;
     margin: auto;
 }
 
-#title{
+.title{
     margin-bottom: 0;
     margin-top: 0;
     text-align: left;
@@ -38,8 +39,10 @@ body{
 .middle_container p{
     line-height: 2;
 }
-
-
+.middle_container img{
+    height: 90%;
+    width: 90%;
+}
 
 
 

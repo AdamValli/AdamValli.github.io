@@ -50,8 +50,8 @@ body{
 }
 
 .bottom_container{
-    padding: 2% 5% 8% 5%;
     font-family: "Roboto Slab", "sans-serif";
+    text-align: center;
 }
 
 #footer_watermark{
@@ -62,7 +62,7 @@ body{
     display: inline;
     font-size: 1.25em;
     border-color: white;
-    border-width: 5px;
+    margin: 0 20px;
 }
 
 a:link, a:visited{

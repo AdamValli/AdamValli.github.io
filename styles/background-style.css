@@ -12,7 +12,6 @@ body{
     margin: 0;
 }
 .top_container{
-    padding: 2.5%;
 }
 
 .cicero_head{
@@ -24,7 +23,7 @@ body{
     margin-bottom: 0;
     margin-top: 0;
     text-align: left;
-    font-size: 8ch;
+    font-size: 4em;
 }
 .image_text{
     margin-top: 10px;
@@ -38,22 +37,7 @@ body{
     text-align: justify;
     font-family: "Roboto Slab", "sans-serif";
 }
-.middle_container p{
-    line-height: 2;
-}
-.middle_container img{
-    height: 90%;
-    width: 90%;
-}
 
-
-
-#rage-img, #brutal-img{
-    clear: both;
-    width: 500px;
-    height: 340px;
-    margin: 5% 200px auto 200px;
-}
 
 .bottom_container{
     font-family: "Roboto Slab", "sans-serif";
